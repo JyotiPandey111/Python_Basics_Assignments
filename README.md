@@ -14,7 +14,8 @@
 11. [Assignmnet 11](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_11.ipynb)
 12. [Assignmnet 12](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_12.ipynb)
 13. [Assignmnet 13](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_13.ipynb)
-14. [Assignmnet 14]: in process
+14. [Assignmnet 14](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_14.ipynb)
+15. [Assignmnet 15] will be submitted shortly.
 
 
 ## Solutions of Python_Programming_Assignments
