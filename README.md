@@ -31,4 +31,6 @@
 6. [Assignmnet 6](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%206.ipynb)
 7. [Assignmnet 7](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%207.ipynb)
 8. [Assignmnet 8](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%208.ipynb)
-9. [Assignment 9]:
+9. [Assignment 9](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%2009.ipynb)
+10. [Assignment 10](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%2010.ipynb)
+11. [Assignment 11]: will be uploaded shortly.
