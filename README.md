@@ -18,7 +18,8 @@
 15. [Assignmnet 15](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignement_15.ipynb)
 16. [Assignmnet 16](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_16.ipynb)
 17. [Assignmnet 17](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_17.ipynb)
-18. [Assignment 18] will be uploaded shortly.
+18. [Assignment 18](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_18.ipynb)
+19. [Assignmnet 19]: will be uploaded shortly.
 
 
 ## Solutions of Python_Programming_Assignments
@@ -30,4 +31,4 @@
 6. [Assignmnet 6](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%206.ipynb)
 7. [Assignmnet 7](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%207.ipynb)
 8. [Assignmnet 8](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%208.ipynb)
-9. [Assignment 9]: will be uploaded shortly
+9. [Assignment 9]:
