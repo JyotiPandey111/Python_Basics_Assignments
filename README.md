@@ -20,9 +20,13 @@
 17. [Assignmnet 17](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_17.ipynb)
 18. [Assignment 18](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_18.ipynb)
 19. [Assignmnet 19](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_19.ipynb)
-20. [Assignmnet 20]
+20. [Assignmnet 20](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_20.ipynb)
 21. [Assignmnet 21](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_21.ipynb)
 22. [Assignmnet 22](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_22.ipynb)
+23. [Assignment 23](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_23.ipynb)
+24. [Assignment 24](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_24.ipynb)
+25. [Assignment 25](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Assignment_25.ipynb)
+
 
 
 ## Solutions of Python_Programming_Assignments
@@ -30,10 +34,10 @@
 2. [Assignmnet 2](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming_Assignment_02.ipynb)
 3. [Assignmnet 3](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment_3.ipynb)
 4. [Assignmnet 4](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%204.ipynb)
-5. [Assignmnet 5](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming_Assingment%205.ipynb)
+5. [Assignmnet 5](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment_05.ipynb)
 6. [Assignmnet 6](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%206.ipynb)
 7. [Assignmnet 7](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%207.ipynb)
 8. [Assignmnet 8](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%208.ipynb)
 9. [Assignment 9](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%2009.ipynb)
 10. [Assignment 10](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programming%20Assignment%2010.ipynb)
-11. [Assignment 11]: will be uploaded shortly.
+11. [Assignment 11](https://github.com/JyotiPandey111/Python_Basics_Assignments/blob/main/Programimg%20Assignment%2011.ipynb)
